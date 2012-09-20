@@ -1,0 +1,5 @@
+D:\projects\dotNet\plugins\Annotation\Umbraco\ClassLibrary1\bin\Release\Groupdocs.EmbedAnnotation.dll
+D:\projects\dotNet\plugins\Annotation\Umbraco\ClassLibrary1\bin\Release\Groupdocs.EmbedAnnotation.pdb
+D:\projects\dotNet\plugins\Annotation\Umbraco\ClassLibrary1\obj\Release\ResolveAssemblyReference.cache
+D:\projects\dotNet\plugins\Annotation\Umbraco\ClassLibrary1\obj\Release\Groupdocs.EmbedAnnotation.dll
+D:\projects\dotNet\plugins\Annotation\Umbraco\ClassLibrary1\obj\Release\Groupdocs.EmbedAnnotation.pdb
